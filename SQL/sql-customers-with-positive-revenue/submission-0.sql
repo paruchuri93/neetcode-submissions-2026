@@ -1,0 +1,1 @@
+SELECT customer_id from CUSTOMERS WHERE year = 2020 AND revenue > 0;
